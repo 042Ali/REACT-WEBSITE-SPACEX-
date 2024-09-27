@@ -1,0 +1,27 @@
+.h1__h1 {
+  color: white;
+  font-family: "Tapestry", serif;
+  font-weight: 400;
+  padding: 70px 90px;
+}
+
+menu {
+  color: white;
+  display: flex;
+  gap: 25px;
+  margin-left: 660px;
+  margin-top: -90px;
+}
+
+ul {
+  color: #808080;
+  display: flex;
+  gap: 25px;
+  margin-left: 1350px;
+  margin-top: -20px;
+}
+
+h3 {
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+}

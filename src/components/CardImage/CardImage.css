@@ -1,0 +1,48 @@
+.h2__h2 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin-left: 140px;
+
+  p {
+    margin-left: 400px;
+    margin-top: -15px;
+    font-size: 20px;
+  }
+}
+
+.h2__1 {
+  margin-top: 80px;
+}
+
+.h2__2 {
+  margin-top: 80px;
+}
+
+.h2__3 {
+  margin-top: 80px;
+}
+
+.h2__4 {
+  margin-top: 80px;
+}
+
+.h2__5 {
+  margin-top: 80px;
+}
+
+.h2__6 {
+  margin-top: 80px;
+}
+
+.UNMATCHED {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 200px;
+  margin-left: 140px;
+
+  p {
+    margin-top: 90px;
+    font-size: 20px;
+    margin-left: -20px;
+  }
+}
